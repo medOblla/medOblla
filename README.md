@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Greetings, I'm a computer science student, with a bachelor degree in CS during those 36 months i was able to accumulate a good collection of skills and knowledge about this highly promising domain by taking online courses and contributing to a lot of projects which helped me develop a critical thinking and great ability of problem solving.
+I like discovering new technologies and being up to date with the tech world, to offer more practical apps and services to the world.
+
+- 📫 How to reach me: mohaamed.ouballa@gmail.com
